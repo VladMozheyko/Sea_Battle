@@ -9,7 +9,7 @@ import java.awt.event.MouseEvent;
 import java.util.ArrayList;
 import java.util.Random;
 
-public class Core extends JFrame {
+public class Core extends JFrame {                              // Класс
     static Ship ship;                                            //Блок переменных
     Shot shot;
     public static Cell cell;
