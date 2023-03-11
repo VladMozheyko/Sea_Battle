@@ -7,7 +7,7 @@ public class Cell extends Engine {        //Клетка поля
     Color color;
     int cellSize;
     boolean set = false;
-    boolean yellow = false;
+    boolean yellow = false;  // 
 
     Cell(int x, int y){
         this.x = x;
