@@ -3,6 +3,5 @@ public class Main {
 
     public static void main(String[] args) {
 	  core = new Core();           // запускаем игру
-варие
     }
 }
